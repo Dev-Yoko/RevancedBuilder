@@ -1,6 +1,6 @@
 {
-  "version": "v19.04.37",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/Dev-Yoko/revanced-magisk-module/releases/download/1/youtube-revanced-magisk-v19.04.37-all.zip",
-  "changelog": "https://raw.githubusercontent.com/Dev-Yoko/revanced-magisk-module/update/build.md"
+  "version": "v19.09.37",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/Dev-Yoko/RevancedBuilder/releases/download/3/youtube-revanced-magisk-v19.09.37-all.zip",
+  "changelog": "https://raw.githubusercontent.com/Dev-Yoko/RevancedBuilder/update/build.md"
 }
